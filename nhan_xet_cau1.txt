@@ -1,0 +1,10 @@
+- Mức độ đạt target theo ngành hàng:
+	+ Có 3 ngành hàng đạt target cả 3 tháng: VSMART CŨ, APPLE WATCH CŨ, ASUS CŨ
+	+ Có 2 ngành hàng đạt target 2/3 tháng: NOKIA CŨ, KHÁC CŨ
+	-----> Các mặt hàng giá rẻ + thương hiệu nhưng hàng cũ vẫn luôn thu hút một số lượng lớn khách hàng nhất định, chứng tỏ thị trường này vẫn rất lớn
+- Mức độ đạt target theo quản lí:
+	+ Cao nhất là MINH %PASS: 58.33% (7/12)
+	+ Hai người tiếp theo bằng nhau %PASS: 44.44% là LAN (4/9) và SANG (4/9)
+	+ Cuối là NAM %PASS: 33.33% (4/12)
+	-----> Nhận xét: MINH là người có tỉ lệ đạt target cao nhất, nhưng vì LAN và SANG đảm nhận ít hơn MINH 1 ngành hàng 
+			  (1 ngành hàng tiêu chí 3 tháng) nên vẫn trông đợi được vào 2 bạn

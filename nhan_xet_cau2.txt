@@ -1,0 +1,19 @@
+- Dựa theo thống kế và biểu đồ 12/7, nhận xét về số lượng tồn kho:
+	+ Theo danh mục: iPhone cũ đang có số lượng tồn kho cao nhất với 2651c, xếp sau vẫn là các sản phẩm của hệ
+			      sinh thái Apple, trong đó có 1 brand khác đó là Samsung
+	+ Theo sản phẩm: Top 5 đều là các sản phẩm iPhone các thế hệ (XSMAX64GB cũ 162c, XR64GB cũ 108c, 6S32GB Vàng
+			      101c, ip8 64gb vàng cũ 101c và 6S32GB xám 98c )
+- Dự kiến đến cuối tháng 7 (còn khoảng hơn 2t) về số lượng tồn kho cân đối để đáp ứng nhu cầu bán ra:
+	+ Xét về top các sản phẩm bán ra/nhập vào 1 ngày trước: tỉ lệ  sản phẩm bán ra nhiều nhất là ipsxmax64gb với số
+	   lượng bán/nhập là 15/16
+	+ Xét về top các sản phẩm bán ra/nhập vào 7 ngày trước: tỉ lệ sản phẩm bán ra nhiều nhất là ipxsmax64gb với số 
+	   lượng bán/nhập là 102/31 (gấp hơn 3 lần nhập), sx64gb 42/55 ( ~1:1) và các sản phẩm top3,4,5 cũng có tỉ lệ tương tự
+	   gần ~1:1
+	-> so với số lượng tồn kho hiện tại của ipxsmax64gb là 162c, nếu cứ kì vọng sức mua/nhập như vậy thì 2t nữa (102/31)*2= 204/62
+	cộng với sl tồn kho hiện có là 162c = 204/224. Vậy là kì vọng hết t7, sẽ bán được 204c và trong kho còn tồn lại 224-204=20c.
+	Với sl tồn lại khi hết t7 là 20c thì k thể có đủ sl để kịp giao cho khách vào các ngày trong tháng 8
+		----> Đẩy nhanh số lượng và tốc độ nhập máy (chưa đề cập các chương trình khuyến mãi, ưu đãi có thể ảnh hưởng)
+	-> so với số lượng tồn kho hiện tại của các sản phẩm trong top khác với tỉ lệ bán/nhập ~1:1
+		----> Xem xét và có thể duy trì tốc độ và sl hiện tại (chưa đề cập các chương trình khuyến mãi, ưu đãi có thể ảnh hưởng)
+	-> so với số lượng tồn kho hiện tại của các sản phẩm trong top khác với tỉ lệ bán/nhập thấp hơn 1:1
+		----> Tạm dưng nhập hàng với các sp hết sức mua, xem xét thanh lý với các chương trình khuyến mãi
